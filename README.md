@@ -1,2 +1,2 @@
-# fundamentals-of-SQL
+# fundamentals-of-Python
 geekbrains
