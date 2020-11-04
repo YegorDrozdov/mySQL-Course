@@ -1,0 +1,9 @@
+mysqldump -uroot -p example > C:\mySQL_Course\Course\Lesson2\sql_dump\example_dump.sql
+mysql -uroot -p
+create database sample;
+use sample;
+source C:\mySQL_Course\Course\Lesson2\sql_dump\example_dump.sql
+show tables;
+
+http://joxi.ru/ZrJPldLinzM4R2
+http://joxi.ru/KAg64PltKbX8k2
